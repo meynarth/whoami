@@ -1,0 +1,11 @@
+# HTTP requests and banner grabbing
+requests>=2.31.0
+
+# Advanced DNS lookups (MX, TXT, etc.)
+dnspython>=2.6.1
+
+# Nmap wrapper for Python to run and parse port scans
+python-nmap>=0.7.1
+
+# Shodan API integration for gathering external host data
+shodan>=1.30.0
